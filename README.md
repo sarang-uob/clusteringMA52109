@@ -5,7 +5,7 @@ datasets and running clustering analyses with a simple, user-friendly interface.
 
 It is designed for practicals and exams where students are given an incomplete
 or faulty version of the package and asked to debug or extend it.
-
+test
 ## Allowed libraries
 
 The package only uses:
